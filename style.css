@@ -1,0 +1,15 @@
+.div{
+    display: flex;
+    justify-content: center;
+    
+}
+#keyingi{
+    display: inline-block;
+    background-color: red;
+    border-radius: 10px;
+}
+#oldingi{
+    display: inline-block;
+    background-color: green;
+    border-radius: 10px;
+}
